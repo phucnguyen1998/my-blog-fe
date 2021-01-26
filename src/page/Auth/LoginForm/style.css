@@ -1,0 +1,14 @@
+.wrap {
+    width: 100%;
+    text-align: left;
+}
+
+.validate-input {
+    color: #dc3545;
+    font-size: 14px;
+}
+
+.emailError,
+.passwordError {
+    border: 2px solid #dc3545;
+}
